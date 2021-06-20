@@ -1,4 +1,4 @@
-# platzi-exchange
+# Curso Básico de Vue 2 en Platzi - platzi-exchange
 
 ## Project setup
 ```
